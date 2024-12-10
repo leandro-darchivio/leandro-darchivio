@@ -18,7 +18,9 @@ Soy un apasionado del desarrollo de software y la tecnología. Disfruto resolvie
 ### **Herramientas y Frameworks:**
 - **IDE:** RAD Studio, Lazarus  
 - **Sistemas Embebidos:** Arduino  
-- **Scripting:** Bash Linux  
+- **Scripting:** Bash Linux
+- **Servidores Web:** Apache
+- **Contenedores:** Docker
 - **Sistemas Operativos:** Linux (administración y scripting)  
 
 ---
