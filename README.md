@@ -12,7 +12,7 @@ Soy un apasionado del desarrollo de software y la tecnología. Disfruto resolvie
 ## 🚀 **Habilidades y Tecnologías**
 ### **Lenguajes de Programación:**
 - **Frontend:** JavaScript, HTML, CSS  
-- **Backend:** Python, MySQL  
+- **Backend:** Python, MySQL, PHP  
 - **Lenguajes Clásicos:** Delphi, Pascal, Lazarus  
 
 ### **Herramientas y Frameworks:**
