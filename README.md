@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Leandro Darchi
 
 🎯 **Sobre mí**  
-Soy un apasionado del desarrollo de software y la tecnología. Disfruto resolviendo problemas, aprendiendo nuevas herramientas y creando soluciones que simplifican la vida. Mi experiencia abarca desde lenguajes clásicos hasta herramientas modernas para desarrollo web, sistemas embebidos y administración de servidores.
+Soy un apasionado del desarrollo de software y la tecnología. Disfruto resolviendo problemas, aprendiendo nuevas herramientas y creando soluciones que simplifican la vida. Mi experiencia abarca desde lenguajes clásicos hasta herramientas modernas para desarrollo web, sistemas embebidos y administración de servidores. Actualmente, estoy aprendiendo a hacer RAG (Retrieval-Augmented Generation) con AI.
 
 📫 **Cómo contactarme:**  
 - ✉️ [leandro.darchi@gmail.com](mailto:leandro.darchi@gmail.com)  
